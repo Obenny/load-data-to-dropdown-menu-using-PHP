@@ -11,7 +11,7 @@ See Prerequisites and Installation for notes on how to deploy the project on a l
 Note: This templete was tested on XAMPP server.
 
 To begin using this template:
-[Download XAMPP and install](https://www.apachefriends.org/download.html) or you can open the `index.html` file in your web browser.
+[Download XAMPP and install](https://www.apachefriends.org/download.html) or you can open the `index.php` file in your web browser.
 
 ## Running the tests
 
